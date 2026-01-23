@@ -2,6 +2,10 @@
 
 This folder contains the materials and datasets for the first exercise in the "Getting started with Machine Learning" series.
 
+## 📊 Learning Machine Learning Fundamentals
+
+In this repository, we will explore the basics of Machine Learning by working hands-on with essential Python libraries such as **NumPy**, **Pandas**, and **Matplotlib**. The focus will be on understanding data through cleaning, manipulation, and visualization techniques, which are critical steps before building any model. By visualizing patterns, trends, and relationships in datasets, we aim to develop strong intuition about the data and how Machine Learning algorithms interpret it. This repo serves as a learning playground for experimenting, practicing, and gradually moving toward more advanced concepts in the field.
+
 ## Contents
 
 - **[Ex-1.ipynb](Ex-1.ipynb)**: The main Jupyter Notebook containing the code and implementation for the exercise.
