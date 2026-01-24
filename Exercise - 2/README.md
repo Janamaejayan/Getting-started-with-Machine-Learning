@@ -10,6 +10,7 @@ In this repository, we transition from data exploration to building and evaluati
 
 * **Ex-2.ipynb**: The main Jupyter Notebook containing the code and implementation for the exercise.
 * **datasets/**: A directory containing the CSV dataset used in the exercise.
+* **ML Exercise - 2**: This contains the report for the Experiment performed
 
 ## Datasets
 
