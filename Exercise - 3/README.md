@@ -9,7 +9,8 @@ In this repository, we explore advanced regression techniques to predict continu
 ## Contents
 
 * **Ex-3.ipynb**: The main Jupyter Notebook containing the implementation of the regression pipeline and model comparison.
-* **datasets/**: A directory containing the datasets used for training and testing the regression models.
+* **dataset/**: A directory containing the datasets used for training and testing the regression models.
+* **ML Exercise - 3.pdf**: It contains the report for the experiments performed.
 
 ## Notebook Summary (Ex-3.ipynb)
 
